@@ -9,11 +9,13 @@
     "body-parser": "~1.17.1",
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.3",
-    "pg": "4.x",
     "ejs": "2.3.3",
     "express": "~4.15.2",
     "hbs": "~4.0.1",
+    "joi": "^11.0.1",
     "morgan": "~1.8.1",
+    "mysql": "^2.14.1",
+    "pg": "4.x",
     "serve-favicon": "~2.4.2"
   }
 }
